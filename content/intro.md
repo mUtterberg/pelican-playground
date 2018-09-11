@@ -2,7 +2,7 @@ Title: Notes on Pelican
 Date: 2018-09-11 10:20
 Category: Notes
 
-# Pushing a Pelican site to GitHub Pages
+# Deploying a Pelican site to GitHub Pages
 
 If your change was on GitHub in the browser, run `git pull origin master` first. Otherwise, initiate the new build with `pelican content -o output -s publishconf.py`
 
