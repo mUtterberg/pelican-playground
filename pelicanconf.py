@@ -25,10 +25,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Utterberg Data & Development: Portfolio Site', 'https://utterbergdatadev.com'),
          ('Back to main DataDev #100DaysOfCode', 'https://datadev.me'),
-         ('Source for this project on GitHub', 'https://github.com/mUtterberg/pelican-playground/'),
-         ('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),)
+         ('Source for this project on GitHub', 'https://github.com/mUtterberg/pelican-playground/'),)
 
 # Social widget
 SOCIAL = (('mUtterberg on Twitter', 'https://www.twitter.com/mutterberg'),
