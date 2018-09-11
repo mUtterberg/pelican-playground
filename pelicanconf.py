@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Marissa Utterberg'
-SITENAME = 'Pelican-Playground'
+SITENAME = 'My Pelican Playground'
 SITEURL = ''
 
 PATH = 'content'
@@ -21,14 +21,16 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Utterberg Data & Development: Portfolio Site', 'https://utterbergdatadev.com'),
+         ('Back to main DataDev #100DaysOfCode', 'https://datadev.me'),
+         ('Source for this project on GitHub', 'https://github.com/mUtterberg/pelican-playground/'),
          ('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('Back to main DataDev #100DaysOfCode', 'https://datadev.me'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', 'https://www.twitter.com/mutterberg'),)
+SOCIAL = (('mUtterberg on Twitter', 'https://www.twitter.com/mutterberg'),
+          ('mUtterberg on GitHub', 'https://github.com/mUtterberg/'),
+          ('Marissa Utterberg on LinkedIn', 'https://www.linkedin.com/in/marissautterberg/'),)
 
 DEFAULT_PAGINATION = 10
 
