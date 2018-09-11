@@ -7,7 +7,7 @@ THEME = 'notmyidea'
 AUTHOR = 'Marissa Utterberg'
 SITENAME = 'My Pelican Playground'
 SITESUBTITLE = 'A #100DaysOfCode Project'
-SITEURL = ''
+SITEURL = 'https://mutterberg.github.io/pelican-playground'
 
 PATH = 'content'
 
@@ -37,5 +37,5 @@ SOCIAL = (('mUtterberg on Twitter', 'https://www.twitter.com/mutterberg'),
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing (or hosting on GitHub Pages?)
-RELATIVE_URLS = True
+# Uncomment following line if you want document-relative URLs when developing
+# RELATIVE_URLS = True
