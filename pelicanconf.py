@@ -2,8 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+THEME = 'notmyidea'
+
 AUTHOR = 'Marissa Utterberg'
 SITENAME = 'My Pelican Playground'
+SITESUBTITLE = 'A #100DaysOfCode Project'
 SITEURL = ''
 
 PATH = 'content'
@@ -36,5 +39,3 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-THEME = 'notmyidea'
