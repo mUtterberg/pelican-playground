@@ -22,3 +22,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 GOOGLE_ANALYTICS = "UA-111890368-6"
+TWITTER_USERNAME = "mutterberg"
+MENUITEMS = [('#100DaysOfCode Project Home', 'https://datadev.me/'),
+            ('Pelican Project Home', 'https://datadev.me/pelican-playground/')]
