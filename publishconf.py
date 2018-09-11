@@ -23,6 +23,6 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 GOOGLE_ANALYTICS = "UA-111890368-6"
 TWITTER_USERNAME = "mutterberg"
-GITHUB_URL = 'https://github.com/mUtterberg/'
+GITHUB_URL = 'https://github.com/mUtterberg/pelican-playground'
 MENUITEMS = [('#100DaysOfCode Project Home', 'https://datadev.me/'),
             ('Pelican Project Home', 'https://datadev.me/pelican-playground/')]
