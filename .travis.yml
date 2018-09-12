@@ -20,4 +20,4 @@ deploy:
   github_token: $GITHUB_TOKEN
   local_dir: output
   on:
-    branch: gh-pages
+    branch: master
