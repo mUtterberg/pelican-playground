@@ -1,1 +1,23 @@
+# Build using Python 3.6
 language: python
+python:
+- 3.6
+# Cache Dependencies
+cache: pip
+branches:
+  only:
+  - master
+# install dependencies
+install:
+- pip install --upgrade pip
+- pip install -r requirements.txt
+script:
+- make publish github
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: output
+  on:
+    branch: gh-pages
