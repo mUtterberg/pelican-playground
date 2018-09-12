@@ -11,8 +11,10 @@ branches:
 install:
 - pip install --upgrade pip
 - pip install -r requirements.txt
+before_script:
+  - invoke --list
 script:
-- make publish github
+  - invoke publish-carefully
 
 deploy:
   provider: pages
