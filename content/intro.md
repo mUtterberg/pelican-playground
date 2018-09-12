@@ -1,4 +1,4 @@
-Title: Notes on Pelican
+Title: Getting Started with Pelican on GitHub Pages
 Date: 2018-09-11 10:20
 Category: Notes
 
