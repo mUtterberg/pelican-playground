@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from plugins import always_modified, custom
+from plugins import always_modified
 
 THEME = 'Flex'
 
