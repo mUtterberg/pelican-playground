@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from
 
 THEME = 'Flex'
 
@@ -59,3 +60,8 @@ LINKS_WIDGET_NAME = 'Other projects by Utterberg Data & Development'
 SOCIAL_WIDGET_NAME = 'Connect'
 
 DISPLAY_PAGES_ON_MENU = True
+
+PLUGIN_PATHS = ['plugins', '/static/plugins']
+PLUGINS = ['test', 'always_modified']
+
+ALWAYS_MODIFIED = True
