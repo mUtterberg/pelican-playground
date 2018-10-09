@@ -25,7 +25,7 @@ EXTRA_PATH_METADATA = {
 }
 CUSTOM_CSS = 'static/custom.css'
 
-MAIN_MENU = True
+MAIN_MENU = False
 
 PATH = 'content'
 
