@@ -46,9 +46,9 @@ LINKS = (('Utterberg Data & Development: Portfolio Site', 'https://utterbergdata
          ('Source for this project on GitHub', 'https://github.com/mUtterberg/pelican-playground/'),)
 
 # Social widget
-SOCIAL = (('mUtterberg on Twitter', 'https://www.twitter.com/mutterberg'),
-          ('mUtterberg on GitHub', 'https://github.com/mUtterberg/'),
-          ('Marissa Utterberg on LinkedIn', 'https://www.linkedin.com/in/marissautterberg/'),)
+SOCIAL = (('twitter', 'https://www.twitter.com/mutterberg'),
+          ('github', 'https://github.com/mUtterberg/'),
+          ('linkedin', 'https://www.linkedin.com/in/marissautterberg/'),)
 
 DEFAULT_PAGINATION = 10
 
