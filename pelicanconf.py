@@ -8,7 +8,7 @@ AUTHOR = 'Marissa Utterberg'
 SITENAME = 'My Pelican Playground'
 SITESUBTITLE = 'A #100DaysOfCode Project'
 SITEURL = 'https://mutterberg.github.io/pelican-playground'
-SITELOGO = SITEURL + '/content/images/logo.png'
+SITELOGO = SITEURL + '/images/logo.png'
 
 BROWSER_COLOR = '#810016'
 
