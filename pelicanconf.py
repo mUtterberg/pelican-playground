@@ -10,7 +10,7 @@ SITESUBTITLE = 'A #100DaysOfCode Project'
 SITEURL = 'https://mutterberg.github.io/pelican-playground'
 SITELOGO = SITEURL + '/images/logo.png'
 
-BROWSER_COLOR = '#810016'
+BROWSER_COLOR = '#3d4070'
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',
