@@ -61,7 +61,6 @@ SOCIAL_WIDGET_NAME = 'Connect'
 
 DISPLAY_PAGES_ON_MENU = True
 
-PLUGIN_PATHS = ['plugins', '/static/plugins']
-PLUGINS = ['test', 'always_modified']
+PLUGINS = ['always_modified']
 
 ALWAYS_MODIFIED = True
