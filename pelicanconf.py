@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from plugins.always_modified import always_modified
 
 THEME = 'Flex'
 
@@ -61,6 +60,7 @@ SOCIAL_WIDGET_NAME = 'Connect'
 
 DISPLAY_PAGES_ON_MENU = True
 
+PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['always_modified',]
 
 ALWAYS_MODIFIED = True
