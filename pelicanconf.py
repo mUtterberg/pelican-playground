@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = 'notmyidea'
+THEME = 'bold'
 
 AUTHOR = 'Marissa Utterberg'
 SITENAME = 'My Pelican Playground'
