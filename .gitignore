@@ -105,3 +105,7 @@ myvenv/
 .mypy_cache/
 
 .DS_Store
+
+# Pelican project output files
+output
+pelicanconf_local.py
