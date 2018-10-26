@@ -109,3 +109,4 @@ myvenv/
 # Pelican project output files
 output
 pelicanconf_local.py
+.idea/*
