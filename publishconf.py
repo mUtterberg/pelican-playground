@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://datadev.me/pelican-playground'
+SITEURL = 'https://mutterberg.github.io/pelican-playground'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -25,5 +25,5 @@ DELETE_OUTPUT_DIRECTORY = True
 GOOGLE_ANALYTICS = "UA-111890368-6"
 TWITTER_USERNAME = "mutterberg"
 GITHUB_CORNER_URL = 'https://github.com/mUtterberg/pelican-playground'
-MENUITEMS = [('My #100DaysOfCode Project Home', 'https://datadev.me/'),
-            ('My Pelican Project Home', 'https://datadev.me/pelican-playground/')]
+MENUITEMS = [('My #100DaysOfCode Project Home', 'https://mutterberg.github.io/'),
+            ('My Pelican Project Home', 'https://mutterberg.github.io/pelican-playground')]
